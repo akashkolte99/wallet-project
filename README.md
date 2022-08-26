@@ -15,7 +15,7 @@ doing transaction from wallet.
 # Collaborators
 
 - [Shubham Kumar](https://www.github.com/codeirax)
-- [Akash Kolte](https://www.github.com/akkii99)
+- [Akash Kolte](https://github.com/akashkolte99)
 - [Ritesh Kumar Jha](https://www.github.com/Riteshkumarjha98)
 - [P.Murali Krishna](https://www.github.com/purimetlamuralikrishna)
 - [Aadarsh Mukati](https://www.github.com/aadarsh11433)
